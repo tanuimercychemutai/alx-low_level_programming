@@ -1,10 +1,9 @@
 #include <stdio.h>
-
 /**
-*main -prints out a string,
-*Description: Uses puts to print "Programming is like bulding a multilingual puzzle
-*Returns 0: if exited correctly, negative if otherwise
-*/
+ * main - Prints out a string
+ * Description: Prints "\"Programming is like building a multilingual puzzle"
+ * Return: 0 if exited correctly, else negative num
+ */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
