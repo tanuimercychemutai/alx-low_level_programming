@@ -1,4 +1,4 @@
-#include "main.h"
+#include "stdio.h"
 
 /**
  * _islower - check whether a letter is lower case
@@ -9,3 +9,4 @@
 int _islower(int c)
 {
 	return (c >= 97 && c <= 122);
+}
